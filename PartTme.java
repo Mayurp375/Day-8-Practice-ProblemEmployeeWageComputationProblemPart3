@@ -25,6 +25,6 @@ public class PartTme {
             System.out.println("part time");
         }
         int dailyWage = perHr * dayHr;
-        System.out.println("daily wage is : " + dailyWage)
+        System.out.println("daily wage is : " + dailyWage);
     }
 }
