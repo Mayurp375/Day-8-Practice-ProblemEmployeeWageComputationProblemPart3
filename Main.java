@@ -6,6 +6,6 @@ public class Main {
         EmployeeWage.check();//wage check
         PartTme.check(); //partTime check
         SwitchCase.check(); //Switch case check
-
+        forMonth.check(); //for month
     }
 }
