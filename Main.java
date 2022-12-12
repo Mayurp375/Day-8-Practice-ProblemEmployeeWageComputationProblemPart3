@@ -7,5 +7,6 @@ public class Main {
         PartTme.check(); //partTime check
         SwitchCase.check(); //Switch case check
         forMonth.check(); //for month
+        TotalWorkingHour.check();//total working hr
     }
 }
